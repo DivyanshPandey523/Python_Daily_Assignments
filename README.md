@@ -1,31 +1,39 @@
-# Python Assignments 
+# Python Daily Assignments
 
-Hi! Welcome to my Python Assignments repository.
+Hi! Welcome to my Python practice repository.
 
-I created this repository to save my Python practice work and keep track of what I learn. I am currently learning Python and trying to improve my coding skills by solving questions and practicing different concepts.
+I created this repository to keep my Python learning, assignments, and coding practice organized in one place. I am learning step by step and adding programs as I practice different concepts.
 
-# What I'm Learning
+## Topics Covered
 
-In this repository, you will find my practice notebooks on topics like:
+- Python Basics
+- Conditional Statements
+- Loops
+- Pattern Printing
+- Lists and List Comprehensions
+- String Methods
+- Functions
+- Class and Objects
+- Generators and Iterators
+- NumPy
+- Daily Practice and Logic Building
+- Python Assignments
 
-- Conditional statements (`if`, `if-else`)
-- Loops and pattern printing
-- Python lists and list comprehension
-- Methods and logical statements
-- Daily Python practice questions
-- Basic NumPy
-- Installing Python packages using pip
+## Mini Projects
 
-# Tools I'm Using
+- QR Code Generator
+- UPI QR Code Generator
+- Text and Image Conversion
+
+## Tools
 
 - Python
-- Jupyter Notebook
 - Anaconda
-- GitHub
+- Jupyter Notebook (for earlier practice notebooks)
+- Git and GitHub
 
-# My Goal
+## Goal
 
-My goal is to understand Python step by step, improve my logic, and become better at solving coding problems.
+My goal is to strengthen my Python fundamentals, improve logical thinking, and build small projects while learning.
 
-I will keep adding new assignments as I learn more topics.
-
+This repository is a work in progress. I will keep adding and improving programs as I learn new concepts.
