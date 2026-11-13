@@ -26,3 +26,13 @@ def add_numbers(a, b):
 
 
 add_numbers(10, 20)
+
+
+# Program 4: Returning a value from a function
+def calculate_sum(a, b):
+    total = a + b
+    return total
+
+
+result = calculate_sum(10, 20)
+print("Returned sum =", result)
