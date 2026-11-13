@@ -1,7 +1,4 @@
 # Pattern 1: Square Pattern Using While Loop
-
-print("by Devang Bharadwaj")
-
 num = 4
 row = 1
 
@@ -17,9 +14,6 @@ while row <= num:
 
 
 # Pattern 2: Increasing Star Triangle Using While Loop
-
-print("by Devang Bharadwaj")
-
 num = 5
 row = 1
 
@@ -34,9 +28,6 @@ while row <= num:
     row += 1
 
 # Pattern 3: Centered Star Pyramid Using While Loop
-
-print("by Devang Bharadwaj")
-
 num = 5
 row = 1
 
@@ -59,9 +50,6 @@ while row <= num:
 
 
 # Pattern 4: Increasing Star Pyramid Using While Loop
-
-print("by Devang Bharadwaj")
-
 num = 5
 row = 1
 
