@@ -1,5 +1,4 @@
 # Pattern 1: Alphabet Triangle
-print("by Devang Bharadwaj")
 n = 5
 
 for i in range(1, n + 1):
@@ -9,7 +8,6 @@ for i in range(1, n + 1):
 
 
 # Pattern 7: Continuous Number Triangle
-print("by Devang Bharadwaj")
 row = 5
 num = 2
 
