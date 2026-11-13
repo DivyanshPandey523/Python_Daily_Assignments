@@ -7,7 +7,7 @@ print("Hello, Python!")
 # Storing values in variables
 name = "Divyansh"
 age = 21
-height = 5.10
+height = "5 feet 10 inches"
 
 print("Name:", name)
 print("Age:", age)
