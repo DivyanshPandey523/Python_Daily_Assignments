@@ -1,5 +1,3 @@
-print("by Devang Bharadwaj")
-
 # Pattern 1: Increasing Star Triangle
 n = 5
 
