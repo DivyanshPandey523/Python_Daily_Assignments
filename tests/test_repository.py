@@ -90,7 +90,7 @@ class RepositoryChecks(unittest.TestCase):
     def test_input_based_scripts_run_with_sample_inputs(self):
         cases = [
             ("Python Basics/Python_Basics.py", "Divyansh\n10\n5\n"),
-            ("Pattern Printing/Pattern Printing via Input.py", "2\n3\n"),
+            ("Pattern Printing/Pattern Printing via Input.py", "2\n2\n3\n"),
             ("Pattern Printing/Types of Pattern Printing.py", "3\n"),
         ]
         for script, sample_input in cases:
