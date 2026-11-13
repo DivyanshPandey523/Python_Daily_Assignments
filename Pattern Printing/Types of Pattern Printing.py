@@ -1,7 +1,4 @@
 # Pattern 1: Increasing Star Pyramid
-
-print("by Devang Bharadwaj")
-
 n = int(input("Enter no of rows: "))
 
 for i in range(1, n + 1):
@@ -16,9 +13,6 @@ for i in range(1, n + 1):
 
 
 # Pattern 2: Decreasing Star Pyramid
-
-print("by Devang Bharadwaj")
-
 n = 5
 
 for i in range(n, 0, -1):
@@ -33,9 +27,6 @@ for i in range(n, 0, -1):
 
 
 # Pattern 3: Diamond Star Pattern
-
-print("by Devang Bharadwaj")
-
 n = 5
 
 for i in range(1, 2 * n):
@@ -57,9 +48,6 @@ for i in range(1, 2 * n):
 
 
 # Pattern 4: Increasing and Decreasing Number Pyramid
-
-print("by Devang Bharadwaj")
-
 n = 5
 
 for i in range(1, 2 * n):
