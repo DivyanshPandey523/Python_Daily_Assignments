@@ -2,22 +2,21 @@
 
 Hi! Welcome to my Python practice repository.
 
-I created this repository to keep my Python learning, assignments, and coding practice organized in one place. I am learning step by step and adding programs as I practice different concepts.
+I created this repository to keep my Python learning and practice programs organised in one place. I add examples here as I learn new concepts and solve different questions.
 
-## Topics Covered
+## Topics
 
 - Python Basics
 - Conditional Statements
 - Loops
 - Pattern Printing
-- Lists and List Comprehensions
+- Lists and Comprehensions
 - String Methods
 - Functions
-- Class and Objects
+- Classes and Objects
 - Generators and Iterators
 - NumPy
-- Daily Practice and Logic Building
-- Python Assignments
+- Logic Building and Daily Practice
 
 ## Mini Projects
 
@@ -25,15 +24,15 @@ I created this repository to keep my Python learning, assignments, and coding pr
 - UPI QR Code Generator
 - Text and Image Conversion
 
-## Tools
+## Tools Used
 
 - Python
+- Jupyter Notebook
 - Anaconda
-- Jupyter Notebook (for earlier practice notebooks)
 - Git and GitHub
 
-## Goal
+## About This Repository
 
-My goal is to strengthen my Python fundamentals, improve logical thinking, and build small projects while learning.
+This is my practice repository, so the examples are kept simple and easy to follow. Some topics have both Python files and Jupyter notebooks from my practice sessions.
 
-This repository is a work in progress. I will keep adding and improving programs as I learn new concepts.
+I will keep updating the repository as I learn and practise more.
